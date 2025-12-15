@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "箱庭のコラル",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-15T09:00:18.361846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "箱庭のコラル (feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_箱庭のコラル_(feat._天馬司&鳳えむ&草薙寧々&神代類&KAITO)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "箱庭のコラル",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_箱庭のコラル_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "箱庭のコラル",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO",
+      "has_synced": true,
+      "path": "select/03_箱庭のコラル_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&KAITO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "箱庭のコラル",
+      "artist": "ワンダーランズ x ショウタイム",
+      "has_synced": true,
+      "path": "select/04_箱庭のコラル_ワンダーランズ_x_ショウタイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "箱庭のコラル (feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_箱庭のコラル_(feat._天馬司&鳳えむ&草薙寧々&神代類&KAITO)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
